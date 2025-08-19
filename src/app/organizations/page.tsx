@@ -5,7 +5,7 @@ import Organization from "./components/organization"
 export default function Page() {
   const organizations = [
     {
-      title : "University of PACE", 
+      title : "University of Guyana PACE", 
       role: "Assistant Technical Officer",
       description: "A department under the University of Guyana that primarily focuses on event planning ranging from budgeting to technology catering. Under the department I serve as the Assistant Technical Officer responsible for custom web solutions, website management and research on technology recommendations to serve the departments needs",
       image: "/ug.png",
@@ -23,7 +23,7 @@ export default function Page() {
     {
       title : "Game Development Club", 
       role: "member",
-      description: "I've been an active member from the inception of the club. I would've helped plan workshops, develop games and participate in dicussions around game design. I've also made my own personal gamde development projects while a member of the club",
+      description: "I've been an active member from the inception of the club. I would've helped plan workshops, develop games and participate in dicussions around game design. I've also made my own personal game development projects while a member of the club",
       image: "/ug_game_dev.jpeg",
       imageDescription: "",
       links: [],
