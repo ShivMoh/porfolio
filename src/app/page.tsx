@@ -23,9 +23,10 @@ export default function MasonryImageList() {
 }
 
 const itemData = [
+
   {
-    img: 'women.jpeg',
-    title: 'Something',
+    img: 'innovation_challenge.jpg',
+    title: 'Blinds',
   },
   {
     img: 'lcoy_panel.jpg',
@@ -36,12 +37,12 @@ const itemData = [
     title: 'Books',
   },
   {
-    img: 'innovation_challenge.jpg',
+    img: 'innovation_opening.jpg',
     title: 'Blinds',
   },
   {
-    img: 'innovation_opening.jpg',
-    title: 'Blinds',
+    img: 'women.jpeg',
+    title: 'Something',
   },
   {
     img: 'science_fair.jpeg',
