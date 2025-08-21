@@ -24,8 +24,8 @@ export default function MasonryImageList() {
 
 const itemData = [
   {
-    img: 'women.jpg',
-    title: 'Me at a panel',
+    img: 'women.jpeg',
+    title: 'Something',
   },
   {
     img: 'lcoy_panel.jpg',
